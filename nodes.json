@@ -1,0 +1,5 @@
+[
+  {"name": "negev", "host": "127.0.0.1", "type": "local", "ssh_user": null, "ssh_port": null, "enabled": true, "probe_v6": true},
+  {"name": "moses", "host": "[REDACTED:internal-ipv4]", "type": "remote", "ssh_user": "root", "ssh_port": 22, "enabled": true, "probe_v6": false}
+]
+
